@@ -14,7 +14,7 @@ const owners = [
         "post": "Owner of Bot",
         "GHURL": "https://github.com/sirdoe",
         "InstaURL": "",
-        "YTURL": "https://www.tiktok.com/@waikobaby"
+        "TikTok": "https://www.tiktok.com/@waikobaby"
     }
 ]
 
