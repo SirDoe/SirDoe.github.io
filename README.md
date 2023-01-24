@@ -1,11 +1,10 @@
 # Discord-Bot-Dashboard
-Advanced Discord dashboard of different pages.
+Advanced simple music bot created by NightHawk Security!
 
 # Discord Server
 - A fun social active Discord Server for chill and coding support also we conduct many program, events, Talent Show, Movie
 - We provide many and many codes there feel free to join 
-- Vanity URL: discord.gg/dcdev
-- Invite: https://discord.gg/gU7XAxTpX5
+- Invite: https://discord.gg/kmTkbNEXWM
 
 
 
@@ -13,10 +12,7 @@ Advanced Discord dashboard of different pages.
 # Modification
 - Join our discord server for help
 
-## Info
+# info
+NightHawk Security is a company here to protect all of our users! We provide custom discord bots, custom server management, and more! 
 
-Author: Supreme#2401
-License: MIT License
-Time working: About 5 hours
-Made using: HTML5, CSS3, JavaScript
-
+Join our server today and give it a look!
