@@ -11,10 +11,30 @@ const API = "https://discord-web-api.glitch.me/discord/user/";
 const owners = [
     {
         "id": "690434154529161246",
-        "post": "Owner of Bot",
+        "post": "NightHawk Security Owner",
         "GHURL": "https://github.com/sirdoe",
         "InstaURL": "",
         "YTURL": "https://www.tiktok.com/@waikobaby"
+    }
+]
+
+const owners = [
+    {
+        "id": "893703441099161601",
+        "post": "NightHawk Security Owner",
+        "GHURL": "",
+        "InstaURL": "",
+        "YTURL": ""
+    }
+]
+
+const owners = [
+    {
+        "id": "1001948329258790992",
+        "post": "Discord Server Developer",
+        "GHURL": "",
+        "InstaURL": "",
+        "YTURL": ""
     }
 ]
 
