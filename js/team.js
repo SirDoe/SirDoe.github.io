@@ -18,8 +18,6 @@ const owners = [
     }
 ]
 
-
-
 for (let indexOne = 0; indexOne < owners.length; indexOne++) {
     const elementOwners = owners[indexOne];
 
