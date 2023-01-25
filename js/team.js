@@ -18,6 +18,27 @@ const owners = [
     }
 ]
 
+ 
+const owners = [
+    {
+        "id": "893703441099161601",
+        "post": "NightHawk Security Owner",
+        "GHURL": "",
+        "InstaURL": "",
+        "YTURL": ""
+    }
+]
+
+const owners = [
+    {
+        "id": "1001948329258790992",
+        "post": "Discord Server Developer",
+        "GHURL": "",
+        "InstaURL": "",
+        "YTURL": ""
+    }
+]
+
 for (let indexOne = 0; indexOne < owners.length; indexOne++) {
     const elementOwners = owners[indexOne];
 
